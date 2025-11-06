@@ -13,3 +13,6 @@ public class GApplet extends Applet {
 
     }
 }
+
+/*<applet code="GApplet" height="500" width="700" border="1">
+    </applet>*/
